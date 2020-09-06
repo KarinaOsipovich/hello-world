@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Карина  здесь)
+Хочу научиться новому
